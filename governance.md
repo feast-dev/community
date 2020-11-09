@@ -159,7 +159,7 @@ A change in our governance structure should be a rare occurrence and should face
 *   Lazy consensus applies to governance changes, but the proposed changes must be public for at least 7 days instead of 48 hours before they are accepted.
 *   If there is opposition to a change, a vote will be held by maintainers.
 *   All maintainers must be made aware of a vote at least one week before it is held. Minimally through the [developer mailing list](https://groups.google.com/g/feast-dev).
-*   Voting requires a super-majority in order to pass a decision, and maintainers do not hold veto power for these votes. A majority is defined as at least 60% of votes in favor.
+*   Voting requires a super-majority in order to pass a decision, and maintainers do not hold veto power for these votes. A super-majority is defined as at least 60% of votes in favor.
 *   The total pool of votes does not include those who abstain from voting.
 *   A quorum is required for voting. A quorum is 60% of maintainers.
 
