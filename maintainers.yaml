@@ -1,24 +1,29 @@
 - name: Oleg Avdeev
   username: oavdeev
   email: oleg.v.avdeev@gmail.com
+  emeritus: false
   organization: Tecton
 
 - name: Pradithya Aria Pura
   username: pradithya
   email: pradithya.aria@gmail.com
+  emeritus: true
   organization: Gojek
 
 - name: Tsotne Tabidze
   username: tsotnet
   email: tsotnet@gmail.com
+  emeritus: false
   organization: Tecton
 
 - name: Willem Pienaar
   username: woop
   email: will.pienaar@gmail.com
+  emeritus: false
   organization: Gojek
 
 - name: Zhiling Chen
   username: zhilingc
   email: chnzhlng@gmail.com
+  emeritus: false
   organization: GetGround
