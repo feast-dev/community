@@ -79,13 +79,13 @@ Anyone can become a maintainer. Typically, a potential maintainer will need to s
 
 ## Becoming a Maintainer
 
-Any existing maintainer can nominate new maintainers. Once they have been nominated, there will be a vote by the rest of the maintainers. Maintainer voting is one of the few activities that take place on a private channel. This is to allow maintainers to express their opinions about a nominee without causing embarrassment freely. The approval requires **three maintainers +1 vote** and **no -1 vote from a maintainer**.
+Any existing maintainer can nominate new maintainers. Once they have been nominated, there will be a vote by the rest of the maintainers. Maintainer voting is one of the few activities that takes place in private. This is to allow maintainers to express their opinions about a nominee without causing embarrassment freely. The approval requires **three maintainers +1 vote** and **no -1 vote from a maintainer**.
 
 Once the vote has been held, the aggregated voting results are published on the [#Feast](https://join.slack.com/t/kubeflow/shared_invite/zt-cpr020z4-PfcAue_2nw67~iIDy7maAQ) Slack channel. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the vote's outcome. This explanation will be provided by the maintainers and will be anonymous and constructive.
 
 Nominees may decline their appointment as a maintainer. Becoming a maintainer means that they will be spending a substantial time working on Feast for the foreseeable future. It is essential to recognize that being a maintainer is a privilege, not a right. That privilege must be earned, and once earned, the rest of the maintainers can remove it in extreme circumstances.
 
-Lazy consensus does not apply to becoming a maintainer. A vote must be held, and all maintainers should be notified of a vote at least one week before it is held.
+Lazy consensus does not apply to becoming a maintainer. A vote must be held. Voting takes place through the [maintainer mailing list](https://groups.google.com/g/feast-maintainers). A vote must stay open for at least 7 days. 
 
 
 ### Earning a Nomination
@@ -113,6 +113,8 @@ The project maintainers are those individuals identified as ‘project owners’
 ## Losing Maintainer Status
 
 If a maintainer is no longer interested and cannot perform the maintainer duties listed above, they can volunteer to be moved to emeritus status. The maintainer status is attributed for life otherwise. An emeritus maintainer may request reinstatement of commit access from the rest of maintainers. Such reinstatement is subject to lazy consensus approval of active maintainers. 
+
+Emeritus status is a nominal title, and confers no special rights (like voting) or access. Emeritus members are functionally identical to normal contributors, with the exception that they can request for reinstatement of their commit access.
 
 In extreme cases, maintainers can lose their status by a vote of the maintainers per the voting process below.
 
@@ -158,7 +160,8 @@ A change in our governance structure should be a rare occurrence and should face
 *   Governance changes are made through PRs to the [feast-dev/community](https://github.com/feast-dev/community) repository.
 *   Lazy consensus applies to governance changes, but the proposed changes must be public for at least 7 days instead of 48 hours before they are accepted.
 *   If there is opposition to a change, a vote will be held by maintainers.
-*   All maintainers must be made aware of a vote at least one week before it is held. Minimally through the [developer mailing list](https://groups.google.com/g/feast-dev).
+*   Voting is asynchronous. All maintainers must be notified of a vote through the [maintainer mailing list](https://groups.google.com/g/feast-maintainers).
+*   Maintainers must be given at least 7 days to respond.
 *   Voting requires a super-majority in order to pass a decision, and maintainers do not hold veto power for these votes. A super-majority is defined as at least 60% of votes in favor.
 *   The total pool of votes does not include those who abstain from voting.
 *   A quorum is required for voting. A quorum is 60% of maintainers.
