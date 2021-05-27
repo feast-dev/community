@@ -1,7 +1,7 @@
 - name: Oleg Avdeev
   username: oavdeev
   email: oleg.v.avdeev@gmail.com
-  emeritus: false
+  emeritus: true
   organization: Tecton
 
 - name: Oleksii Moskalenko
@@ -9,6 +9,12 @@
   email: moskalenko.alexey@gmail.com
   emeritus: false
   organization: Gojek
+
+- name: Jay Parthasarthy
+  username: jparthasarthy
+  email: jparthasarthy@gmail.com
+  emeritus: false
+  organization: Tecton
 
 - name: Pradithya Aria Pura
   username: pradithya
