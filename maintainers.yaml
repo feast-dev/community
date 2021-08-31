@@ -22,6 +22,12 @@
   emeritus: true
   organization: Gojek
 
+- name: Achal Shah
+  username: achals
+  email: achals@gmail.com
+  emeritus: false
+  organization: Tecton
+
 - name: Tsotne Tabidze
   username: tsotnet
   email: tsotnet@gmail.com
