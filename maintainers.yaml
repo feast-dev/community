@@ -9,6 +9,12 @@
   email: d.chiao@gmail.com
   emeritus: false
   organization: Tecton
+
+- name: David Liu
+  username: mavysavydav
+  email: davidyliuliu@gmail.com
+  emeritus: false
+  organization: Twitter
   
 - name: Felix Wang
   username: felixwang9817
@@ -63,9 +69,3 @@
   email: chnzhlng@gmail.com
   emeritus: false
   organization: GetGround
-  
-- name: David Liu
-  username: mavysavydav
-  email: davidyliuliu@gmail.com
-  emeritus: false
-  organization: Twitter
