@@ -13,7 +13,6 @@ In alphabetical order
 | Danny Chiao    | `adchia`         | d.chiao@gmail.com           | Tecton             |
 | David Liu      | `mavysavydav`    | davidyliuliu@gmail.com      | Twitter            |
 | Felix Wang     | `felixwang9817`  | wangfelix98@gmail.com       | Tecton             |
-| Keith Adler    | `Talador12`      | adlerkeith12@gmail.com      | Cloudflare         |
 | Kevin Zhang    | `kevjumba`       | kevin.zhang.13499@gmail.com | Tecton             |
 | Matt Delacour  | `MattDelac`      | mdelacour@hey.com           | (formerly) Shopify |
 | Miles Adkins   | `sfc-gh-madkins` | miles.adkins@snowflake.com  | Snowflake          |
