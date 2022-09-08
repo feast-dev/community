@@ -65,6 +65,8 @@ The general decision making workflow is as follows:
 
 <img src="governance.png" width=600></img>
 
+> **Note**: There may not always a corresponding CODEOWNER for the affected code, in which case the responsibility falls on other maintainers or contributors with write access to review + merge the PR
+
 # Roles And Responsibilities
 
 ## Users
